@@ -8,7 +8,7 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.INFO)
 
 # Base URL of your deployed IPL data API
-API_BASE = 'https://ipl-api.onrender.com'
+API_BASE = 'https://ipl-flask-final-api.onrender.com/'
 
 # error message
 GENERAL_ERROR_MSG = "Something went wrong while fetching the data. Please try again later."
