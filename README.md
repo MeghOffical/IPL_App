@@ -8,7 +8,6 @@ A beautifully designed **web interface** built on top of the [IPL Flask API](htt
 
 ## 💡 What It Does
 
-- Built using **Flask (Jinja2 templates)** and **Bootstrap**
 - Uses API routes from [IPL Flask API](https://github.com/MeghOffical/ipl_flask_api)
 - Lets users explore:
   - All IPL teams
@@ -115,7 +114,7 @@ This web app fetches data using your custom backend from the IPL Flask API:
 
 * Python
 * Flask
-* HTML + CSS + Bootstrap
+* HTML + CSS 
 * Jinja2 Templates
 * IPL API (custom backend)
 
@@ -141,6 +140,7 @@ This project is open source feel free to contribute it.
 ## 🙋 About the Creator
 
 👤 **Megh Bavarva**  
+
 I'm deeply passionate about **data science** and **data-driven storytelling**.  
 This project was built as a way to apply **real-world data analysis** using IPL cricket data, and to showcase how raw CSVs can be transformed into actionable insights through APIs and dashboards.  
 
